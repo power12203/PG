@@ -1,0 +1,20 @@
+.returnTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.returnTable td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+.inputField {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.cardDetails,
+.virtualAccountDetails,
+.accountTransferDetails {
+  margin-top: 20px;
+}
